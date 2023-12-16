@@ -96,22 +96,15 @@ menu:
       name: home
       url: /
       weight: 10
-    - name: Search
-      url: search/
-      weight: 20
     - identifier: projects
       name: projects
       url: /projects/
+      weight: 20
+    - identifier: resume
+      name: resume
+      url: /resume/
       weight: 30
-    - identifier: experience
-      name: experience
-      url: /experience/
-      weight: 40
-    - identifier: education
-      name: education
-      url: /education/
-      weight: 50
-    -
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
