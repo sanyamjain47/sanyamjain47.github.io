@@ -57,7 +57,7 @@ params:
     title: Sanyam
     subtitle: "Software Engineer"
     # Change this
-    imageUrl: "profile.png" 
+    imageUrl: "profile.webp" 
     imageWidth: 180
     imageHeight: 180
 
