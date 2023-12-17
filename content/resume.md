@@ -44,30 +44,30 @@ draft = false
 - Managed a team of 5 and handled **conflict resolutions** among peers by maintaining **anonymity**.
 
 ## Relevant Projects
-### Discord Bot (Nov 2020 - June 2021)
+### Discord Bot
 - Designed a discord bot in **Python** that remind users about meetings.
 - Deployed a **MongoDB** for storing data and reduced reads/writes from server by 50% in one month from initial testing.
 - Python library for discord is no longer maintained by developer.
 
-### Keylogger (Mar 2021 - July 2021)
+### Keylogger
 - Done as course project for a Security Engineering course using **Python** for educational purpose.
 - Logs all keystrokes in **Ubuntu** and sends to email and uploads to cloud.
 - Takes screenshot whenever a new application is launched, and steals passwords stored in **Firefox**.
 
-### Sudoku Solver (Jan 2021)
+### Sudoku Solver
 - Created an image-based sudoku solver using **C++** and **Python** with **OpenCV** and **TensorFlow**.
 
-### Notepad (May 2021)
+### Notepad
 - Developed a simple cross-platform notepad application using **C++** and the **Qt** Framework.
 
 ## Extra Curricular Activities
-### Peer Mentor (Feb 2021 - Present)
+### Peer Mentor
 - Mentoring a group of 10 students and helping in transition from high school to university for 2 years.
 - Established and maintained friendly relationships among all mentees.
 - Coordinated with mentors, hosting a wide range of activities for mentees.
 - Communicated with mentees about coursework, university life and problems faced.
 
-### Project Subcommittee – Discord Bot (Mar 2021 - Present)
+### Project Subcommittee – Discord Bot
 - Volunteered to help develop a discord bot in **Python** for CSESoc.
 - Lead team of 6 people and helped coordinate and manage between team, directors, and other teams as well.
 - Initially wrote in **Python** migrated to **JavaScript** due to discontinued support on python library and deployed using **Docker**.
