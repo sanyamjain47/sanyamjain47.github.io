@@ -12,16 +12,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://sanyamjain47.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume (Under Development)</title>
+      <title>Resume</title>
       <link>https://sanyamjain47.github.io/resume/</link>
       <pubDate>Sat, 16 Dec 2023 15:17:34 +0530</pubDate>
       
       <guid>https://sanyamjain47.github.io/resume/</guid>
-      <description>Sanyam Jain Status: Compiling&amp;hellip; 🔄
-Email: sanyamjain47@gmail.com GitHub: github.com/sanyamjain47
-404 Resume Not Found Oops! Looks like my resume is still buffering. Please check back after a few more coffee breaks!
-Temporary Placeholder While you&amp;rsquo;re waiting, here&amp;rsquo;s a sneak peek of what to expect:
-Experience: I’ve experienced a lot&amp;hellip; especially error messages and caffeine overdoses. Skills: Rapid Googling, Semicolon Hunting, and Exception Handling (in code and in life). Education: I&amp;rsquo;ve learned that the best teacher is a last-minute deadline.</description>
+      <description>Education Bachelor of Computer Science/Science, University of New South Wales Major: Security Engineering w/ Statistics WAM: 81.818 Dean&amp;rsquo;s List 2020, 2021, 2022, 2023 Sep 2019 - Dec 2023 Skills Intermediate level in Go, Python, C++, Java, JavaScript, and C. Basics of LaTeX, Bash, Docker, and Git. Data Structures &amp;amp; Algorithm Courses (COMP3821 – Score 83, Extended Algorithms) Relevant Experiences Software Engineer Intern, Canopus Networks (Apr 2023-Present) Played a key role in the development of major features for the main product using Go, concentrating on improving functionality and enhancing performance.</description>
     </item>
     
   </channel>
