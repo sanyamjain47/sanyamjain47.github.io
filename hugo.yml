@@ -67,7 +67,7 @@ params:
     - name: github
       url: "https://github.com/sanyamjain47"
     - name: email
-      url: "mailto:sanyamjain47@wgmail.com"
+      url: "mailto:sanyamjain47@gmail.com"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -107,6 +107,7 @@ menu:
       name: blogs
       url: /blogs/
       weight: 40
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
