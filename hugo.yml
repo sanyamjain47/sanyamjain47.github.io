@@ -4,6 +4,8 @@ pagination:
   pagerSize: 5
 theme: PaperMod
 
+ignoreLogs: ['warning-partial-superfluous-prefix']
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -39,6 +41,9 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  # Disable Twitter cards to prevent the template error
+  enableTwitterCards: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
