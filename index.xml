@@ -4,7 +4,7 @@
     <title>Sanyam Jain</title>
     <link>https://sanyamjain47.github.io/</link>
     <description>Recent content on Sanyam Jain</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Dec 2023 15:17:34 +0530</lastBuildDate>
     <atom:link href="https://sanyamjain47.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,91 @@
       <link>https://sanyamjain47.github.io/resume/</link>
       <pubDate>Sat, 16 Dec 2023 15:17:34 +0530</pubDate>
       <guid>https://sanyamjain47.github.io/resume/</guid>
-      <description>Education Bachelor of Computer Science/Science, University of New South Wales Major: Security Engineering w/ Statistics WAM: 81.818 Dean&amp;rsquo;s List 2020, 2021, 2022, 2023 Sep 2019 - Dec 2023 Skills Intermediate level in Go, Python, C++, Java, JavaScript, and C. Basics of LaTeX, Bash, Docker, and Git. Data Structures &amp;amp; Algorithm Courses (COMP3821 – Score 83, Extended Algorithms) Relevant Experiences Software Engineer Intern, Canopus Networks (Apr 2023-Present) Played a key role in the development of major features for the main product using Go, concentrating on improving functionality and enhancing performance.</description>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor of Computer Science/Science&lt;/strong&gt;, &lt;strong&gt;University of New South Wales&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Major: &lt;strong&gt;Security Engineering&lt;/strong&gt; w/ &lt;strong&gt;Statistics&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;WAM: 81.818&lt;/li&gt;
+&lt;li&gt;Dean&amp;rsquo;s List &lt;strong&gt;2020, 2021, 2022, 2023&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sep 2019 - Dec 2023&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Intermediate level in &lt;strong&gt;Go&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Java&lt;/strong&gt;, &lt;strong&gt;JavaScript&lt;/strong&gt;, and &lt;strong&gt;C&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Basics of &lt;strong&gt;LaTeX&lt;/strong&gt;, &lt;strong&gt;Bash&lt;/strong&gt;, &lt;strong&gt;Docker&lt;/strong&gt;, and &lt;strong&gt;Git&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Structures &amp;amp; Algorithm Courses&lt;/strong&gt; (COMP3821 – Score 83, Extended Algorithms)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;relevant-experiences&#34;&gt;Relevant Experiences&lt;/h2&gt;
+&lt;h3 id=&#34;software-engineer-intern-canopus-networks-apr-2023-present&#34;&gt;Software Engineer Intern, Canopus Networks (Apr 2023-Present)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Played a key role in the development of major features for the main product using &lt;strong&gt;Go&lt;/strong&gt;, concentrating on improving functionality and enhancing performance.&lt;/li&gt;
+&lt;li&gt;Played a pivotal role in integrating new &lt;strong&gt;Go-written modules&lt;/strong&gt; into the existing framework, ensuring seamless functionality and system stability.&lt;/li&gt;
+&lt;li&gt;Conducted rigorous &lt;strong&gt;testing of Go&lt;/strong&gt; code, including unit and integration tests, to ensure robustness and reliability of new features.&lt;/li&gt;
+&lt;li&gt;Utilized &lt;strong&gt;Python&lt;/strong&gt; for &lt;strong&gt;data scraping tasks&lt;/strong&gt;, showcasing versatility in programming languages and the ability to automate and streamline data collection processes.&lt;/li&gt;
+&lt;li&gt;Contributed to the development of insightful &lt;strong&gt;data analytics&lt;/strong&gt; dashboards using &lt;strong&gt;Metabase&lt;/strong&gt; and &lt;strong&gt;Superset&lt;/strong&gt;, facilitating data visualization and decision-making processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-engineer-intern-arista-networks-dec-2022---mar-2023&#34;&gt;Software Engineer Intern, Arista Networks (Dec 2022 - Mar 2023)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed on a legacy codebase in &lt;strong&gt;C++&lt;/strong&gt; and added new features with emphasis on &lt;strong&gt;low-latency&lt;/strong&gt; and &lt;strong&gt;memory management&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Worked in &lt;strong&gt;Go&lt;/strong&gt; to add support for new plugins in existing infrastructure.&lt;/li&gt;
+&lt;li&gt;Added product tests in &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;C++&lt;/strong&gt; to test features on Arista hardware.&lt;/li&gt;
+&lt;li&gt;Worked with &lt;strong&gt;InfluxDB&lt;/strong&gt; to add support for publishing product related statistics to an external database.&lt;/li&gt;
+&lt;li&gt;Added a customer facing &lt;strong&gt;command-line&lt;/strong&gt; feature in product in &lt;strong&gt;Python&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Collaborated and communicated with mentor and peers to report progress and discuss improvements and next steps in project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-engineer-intern-canopus-networks-feb-2022---nov-2022&#34;&gt;Software Engineer Intern, Canopus Networks (Feb 2022 - Nov 2022)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysed network data and made relevant inferences including monthly plots using &lt;strong&gt;Python (Pandas and Plotly)&lt;/strong&gt; and &lt;strong&gt;Wireshark&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Worked on capturing gaming data and analysing gaming experience.&lt;/li&gt;
+&lt;li&gt;Automated using &lt;strong&gt;Python&lt;/strong&gt; to increase productivity of workflow.&lt;/li&gt;
+&lt;li&gt;Worked in &lt;strong&gt;Go&lt;/strong&gt; and &lt;strong&gt;React&lt;/strong&gt; to develop full stack applications from scratch.&lt;/li&gt;
+&lt;li&gt;Worked with &lt;strong&gt;Dr.Vijay Sivaraman&lt;/strong&gt; on delivering narrative for findings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-project-with-dr-shuiqiao-yang-dec-2021---apr-2022&#34;&gt;Research Project with Dr. Shuiqiao Yang (Dec 2021 - Apr 2022)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked with &lt;strong&gt;Dr.Shuiqiao Yang&lt;/strong&gt; on implementing an attacking strategy on a deep text mining model implemented in &lt;strong&gt;Pytorch&lt;/strong&gt; based on Deep Embedding Clustering.&lt;/li&gt;
+&lt;li&gt;Managed a team of 5 and handled &lt;strong&gt;conflict resolutions&lt;/strong&gt; among peers by maintaining &lt;strong&gt;anonymity&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;relevant-projects&#34;&gt;Relevant Projects&lt;/h2&gt;
+&lt;h3 id=&#34;discord-bot&#34;&gt;Discord Bot&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a discord bot in &lt;strong&gt;Python&lt;/strong&gt; that remind users about meetings.&lt;/li&gt;
+&lt;li&gt;Deployed a &lt;strong&gt;MongoDB&lt;/strong&gt; for storing data and reduced reads/writes from server by 50% in one month from initial testing.&lt;/li&gt;
+&lt;li&gt;Python library for discord is no longer maintained by developer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;keylogger&#34;&gt;Keylogger&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Done as course project for a Security Engineering course using &lt;strong&gt;Python&lt;/strong&gt; for educational purpose.&lt;/li&gt;
+&lt;li&gt;Logs all keystrokes in &lt;strong&gt;Ubuntu&lt;/strong&gt; and sends to email and uploads to cloud.&lt;/li&gt;
+&lt;li&gt;Takes screenshot whenever a new application is launched, and steals passwords stored in &lt;strong&gt;Firefox&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sudoku-solver&#34;&gt;Sudoku Solver&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Created an image-based sudoku solver using &lt;strong&gt;C++&lt;/strong&gt; and &lt;strong&gt;Python&lt;/strong&gt; with &lt;strong&gt;OpenCV&lt;/strong&gt; and &lt;strong&gt;TensorFlow&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;notepad&#34;&gt;Notepad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a simple cross-platform notepad application using &lt;strong&gt;C++&lt;/strong&gt; and the &lt;strong&gt;Qt&lt;/strong&gt; Framework.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;extra-curricular-activities&#34;&gt;Extra Curricular Activities&lt;/h2&gt;
+&lt;h3 id=&#34;peer-mentor&#34;&gt;Peer Mentor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentoring a group of 10 students and helping in transition from high school to university for 2 years.&lt;/li&gt;
+&lt;li&gt;Established and maintained friendly relationships among all mentees.&lt;/li&gt;
+&lt;li&gt;Coordinated with mentors, hosting a wide range of activities for mentees.&lt;/li&gt;
+&lt;li&gt;Communicated with mentees about coursework, university life and problems faced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-subcommittee--discord-bot&#34;&gt;Project Subcommittee – Discord Bot&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Volunteered to help develop a discord bot in &lt;strong&gt;Python&lt;/strong&gt; for CSESoc.&lt;/li&gt;
+&lt;li&gt;Lead team of 6 people and helped coordinate and manage between team, directors, and other teams as well.&lt;/li&gt;
+&lt;li&gt;Initially wrote in &lt;strong&gt;Python&lt;/strong&gt; migrated to &lt;strong&gt;JavaScript&lt;/strong&gt; due to discontinued support on python library and deployed using &lt;strong&gt;Docker&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Designing bot to meet needs of 1900+ members.&lt;/li&gt;
+&lt;li&gt;Promoted modelling bot on suggestions given by peers.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
