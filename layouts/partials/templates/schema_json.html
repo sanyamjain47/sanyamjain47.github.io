@@ -1,0 +1,15 @@
+{{- if .Site.Params.env -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title }},
+  "url": {{ .Site.BaseURL }},
+  "description": {{ .Site.Params.description }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }}
+  }
+}
+</script>
+{{- end -}} 
